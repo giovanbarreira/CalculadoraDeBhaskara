@@ -1,0 +1,20 @@
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.exe.config
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.exe
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.pdb
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csprojAssemblyReference.cache
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.Form1.resources
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.Properties.Resources.resources
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csproj.GenerateResource.cache
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.exe
+C:\Users\Giovan\AppData\Local\Temporary Projects\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.pdb
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.exe.config
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.exe
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.pdb
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csprojAssemblyReference.cache
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.Form1.resources
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.Properties.Resources.resources
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csproj.GenerateResource.cache
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.exe
+C:\Users\Giovan\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.pdb
